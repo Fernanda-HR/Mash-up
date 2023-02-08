@@ -1,0 +1,30 @@
+E:\DOCS\CLASES\GRAFICACION\006\Pt2pt\Pt2pt\bin\Debug\Pt2pt.exe
+E:\DOCS\CLASES\GRAFICACION\006\Pt2pt\Pt2pt\bin\Debug\Pt2pt.pdb
+E:\DOCS\CLASES\GRAFICACION\006\Pt2pt\Pt2pt\obj\x86\Debug\Pt2pt.Properties.Resources.resources
+E:\DOCS\CLASES\GRAFICACION\006\Pt2pt\Pt2pt\obj\x86\Debug\Pt2pt.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\GRAFICACION\006\Pt2pt\Pt2pt\obj\x86\Debug\Pt2pt.exe
+E:\DOCS\CLASES\GRAFICACION\006\Pt2pt\Pt2pt\obj\x86\Debug\Pt2pt.pdb
+E:\DOCS\CLASES\GRAFICACION\006\Pt2pt\Pt2pt\obj\x86\Debug\Pt2pt.MyForm.resources
+E:\DOCS\CLASES\GRAFICACION\006\Pt2pt\Pt2pt\obj\x86\Debug\Pt2pt.csprojResolveAssemblyReference.cache
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\bin\Debug\Pt2pt.exe.config
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\bin\Debug\Pt2pt.exe
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\bin\Debug\Pt2pt.pdb
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\obj\x86\Debug\Pt2pt.csproj.AssemblyReference.cache
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\obj\x86\Debug\Pt2pt.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\obj\x86\Debug\Pt2pt.MyForm.resources
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\obj\x86\Debug\Pt2pt.Properties.Resources.resources
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\obj\x86\Debug\Pt2pt.csproj.GenerateResource.cache
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\obj\x86\Debug\Pt2pt.csproj.CoreCompileInputs.cache
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\obj\x86\Debug\Pt2pt.exe
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Pt2pt\obj\x86\Debug\Pt2pt.pdb
+D:\Usuarios\Escritorio\Pt2pt\bin\Debug\Pt2pt.exe.config
+D:\Usuarios\Escritorio\Pt2pt\bin\Debug\Pt2pt.exe
+D:\Usuarios\Escritorio\Pt2pt\bin\Debug\Pt2pt.pdb
+D:\Usuarios\Escritorio\Pt2pt\obj\x86\Debug\Pt2pt.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Pt2pt\obj\x86\Debug\Pt2pt.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Escritorio\Pt2pt\obj\x86\Debug\Pt2pt.MyForm.resources
+D:\Usuarios\Escritorio\Pt2pt\obj\x86\Debug\Pt2pt.Properties.Resources.resources
+D:\Usuarios\Escritorio\Pt2pt\obj\x86\Debug\Pt2pt.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Pt2pt\obj\x86\Debug\Pt2pt.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Pt2pt\obj\x86\Debug\Pt2pt.exe
+D:\Usuarios\Escritorio\Pt2pt\obj\x86\Debug\Pt2pt.pdb
